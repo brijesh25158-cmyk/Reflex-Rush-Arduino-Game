@@ -32,7 +32,7 @@ Reflex Rush is a fun two-player reaction game built using an Arduino Uno. Player
    
 ## 📷 Circuit Diagram
 
-![Circuit Diagram]Circuit Diagram.png
+![Circuit Diagram](Circuit Diagram.png)
 
 ## 📂 Files
 
