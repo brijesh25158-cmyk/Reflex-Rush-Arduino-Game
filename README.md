@@ -29,6 +29,10 @@ Reflex Rush is a fun two-player reaction game built using an Arduino Uno. Player
 4. As soon as the game starts, both players race to press their button.
 5. The player with the fastest reaction wins the round.
 6. LEDs and the buzzer indicate the winner before the next round begins.
+   
+## 📷 Circuit Diagram
+
+![Circuit Diagram](circuit.png)
 
 ## 📂 Files
 
